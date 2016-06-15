@@ -1,6 +1,7 @@
 *.csv
 *.db
 *.sqlite
+*.txt
 
 
 
