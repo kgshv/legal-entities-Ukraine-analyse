@@ -2,7 +2,7 @@ from peewee import *
 
 db = SqliteDatabase('payers.db')
 
-class Payer(Model):
+class Uoutf(Model):
 	name = CharField()
 	short_name = CharField()
 	taxpayer_code = IntegerField(null=True)
